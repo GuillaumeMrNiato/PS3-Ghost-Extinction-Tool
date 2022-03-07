@@ -1,9 +1,13 @@
 # PS3-Ghost-Extinction-Tool
 A complete tool for Extinction in Ghost on PS3
 
-# Image :
+# Images :
 
-https://image.noelshack.com/fichiers/2019/06/2/1549397039-capture.png
+<img src="https://zupimages.net/up/22/10/0b44.png" width="724" height="495">
+
+<img src="https://www.zupimages.net/up/22/10/sner.png" width="724" height="495">
+
+<img src="https://www.zupimages.net/up/22/10/v3ks.png" width="724" height="495">
 
 
 # Follow me :
